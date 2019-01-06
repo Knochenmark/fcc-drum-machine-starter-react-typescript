@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { DrumPadInfo } from '../_domain/drum-pad-list';
+import { DrumPadInfo } from '../_domain/drum-pad-info-list';
 import DrumPad from './drum-pad';
 
 interface DrumMachineProps {
